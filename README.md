@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **7** | 0 | 7 | 0 | `2026-10-28` |
+| **8** | 0 | 8 | 0 | `2026-10-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (7)
+### DSA (8)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -23,6 +23,7 @@
 | 0005 | [16. Longest Substring Without Repeating Characters](./DSA/Strings/longest-substring-without-repeating-characters) | [PY](./DSA/Strings/longest-substring-without-repeating-characters/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 | 0006 | [305. Maximum Points You Can Obtain from Cards](./DSA/General/maximum-points-you-can-obtain-from-cards-) | [PY](./DSA/General/maximum-points-you-can-obtain-from-cards-/solution.py) | ⚪ Unspecified | `General` | `2026-10-27` |
 | 0007 | [Number Of Substrings Containing All Three Characters](./DSA/Strings/number-of-substrings-containing-all-three-characters) | [PY](./DSA/Strings/number-of-substrings-containing-all-three-characters/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-28` |
+| 0008 | [292. Subarrays with K Different Integers](./DSA/Arrays/subarrays-with-k-different-integers) | [PY](./DSA/Arrays/subarrays-with-k-different-integers/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
 
 ---
 
