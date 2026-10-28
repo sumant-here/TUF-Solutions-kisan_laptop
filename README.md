@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 0 | 4 | 0 | `2026-10-27` |
+| **5** | 0 | 5 | 0 | `2026-10-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (4)
+### DSA (5)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,6 +20,7 @@
 | 0002 | [Longest Repeating Character Replacement](./DSA/General/longest-repeating-character-replacement) | [PY](./DSA/General/longest-repeating-character-replacement/solution.py) | ⚪ Unspecified | `General` | `2026-10-27` |
 | 0003 | [16. Longest Substring Without Repeating Characters](./DSA/Strings/longest-substring-without-repeating-characters) | [PY](./DSA/Strings/longest-substring-without-repeating-characters/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 | 0004 | [305. Maximum Points You Can Obtain from Cards](./DSA/General/maximum-points-you-can-obtain-from-cards-) | [PY](./DSA/General/maximum-points-you-can-obtain-from-cards-/solution.py) | ⚪ Unspecified | `General` | `2026-10-27` |
+| 0005 | [Number Of Substrings Containing All Three Characters](./DSA/Strings/number-of-substrings-containing-all-three-characters) | [PY](./DSA/Strings/number-of-substrings-containing-all-three-characters/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-28` |
 
 ---
 
