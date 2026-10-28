@@ -6,25 +6,26 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **9** | 0 | 9 | 0 | `2026-10-28` |
+| **10** | 0 | 10 | 0 | `2026-10-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (9)
+### DSA (10)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Binary Subarrays With Sum](./DSA/Arrays/binary-subarrays-with-sum) | [PY](./DSA/Arrays/binary-subarrays-with-sum/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-10-28` |
 | 0002 | [342. Count number of Nice subarrays](./DSA/Arrays/count-number-of-nice-subarrays) | [PY](./DSA/Arrays/count-number-of-nice-subarrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
 | 0003 | [329. Fruit Into Baskets](./DSA/General/fruit-into-baskets) | [PY](./DSA/General/fruit-into-baskets/solution.py) | ⚪ Unspecified | `General` | `2026-10-27` |
-| 0004 | [144. Implement Stack using Arrays](./DSA/Stack-Queue/implement-stack-using-arrays) | [PY](./DSA/Stack-Queue/implement-stack-using-arrays/solution.py) | ⚪ Unspecified | `Stack-Queue` | `2026-10-28` |
-| 0005 | [Longest Repeating Character Replacement](./DSA/General/longest-repeating-character-replacement) | [PY](./DSA/General/longest-repeating-character-replacement/solution.py) | ⚪ Unspecified | `General` | `2026-10-27` |
-| 0006 | [16. Longest Substring Without Repeating Characters](./DSA/Strings/longest-substring-without-repeating-characters) | [PY](./DSA/Strings/longest-substring-without-repeating-characters/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-27` |
-| 0007 | [305. Maximum Points You Can Obtain from Cards](./DSA/General/maximum-points-you-can-obtain-from-cards-) | [PY](./DSA/General/maximum-points-you-can-obtain-from-cards-/solution.py) | ⚪ Unspecified | `General` | `2026-10-27` |
-| 0008 | [Number Of Substrings Containing All Three Characters](./DSA/Strings/number-of-substrings-containing-all-three-characters) | [PY](./DSA/Strings/number-of-substrings-containing-all-three-characters/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-28` |
-| 0009 | [292. Subarrays with K Different Integers](./DSA/Arrays/subarrays-with-k-different-integers) | [PY](./DSA/Arrays/subarrays-with-k-different-integers/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
+| 0004 | [147. Implement Queue using Arrays](./DSA/Stack-Queue/implement-queue-using-arrays) | [PY](./DSA/Stack-Queue/implement-queue-using-arrays/solution.py) | ⚪ Unspecified | `Stack-Queue` | `2026-10-28` |
+| 0005 | [144. Implement Stack using Arrays](./DSA/Stack-Queue/implement-stack-using-arrays) | [PY](./DSA/Stack-Queue/implement-stack-using-arrays/solution.py) | ⚪ Unspecified | `Stack-Queue` | `2026-10-28` |
+| 0006 | [Longest Repeating Character Replacement](./DSA/General/longest-repeating-character-replacement) | [PY](./DSA/General/longest-repeating-character-replacement/solution.py) | ⚪ Unspecified | `General` | `2026-10-27` |
+| 0007 | [16. Longest Substring Without Repeating Characters](./DSA/Strings/longest-substring-without-repeating-characters) | [PY](./DSA/Strings/longest-substring-without-repeating-characters/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-27` |
+| 0008 | [305. Maximum Points You Can Obtain from Cards](./DSA/General/maximum-points-you-can-obtain-from-cards-) | [PY](./DSA/General/maximum-points-you-can-obtain-from-cards-/solution.py) | ⚪ Unspecified | `General` | `2026-10-27` |
+| 0009 | [Number Of Substrings Containing All Three Characters](./DSA/Strings/number-of-substrings-containing-all-three-characters) | [PY](./DSA/Strings/number-of-substrings-containing-all-three-characters/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-28` |
+| 0010 | [292. Subarrays with K Different Integers](./DSA/Arrays/subarrays-with-k-different-integers) | [PY](./DSA/Arrays/subarrays-with-k-different-integers/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
 
 ---
 
